@@ -66,5 +66,4 @@ var menuLinks = [
     topMenuEl.appendChild(a); 
 });
 
-    // for (let index= 0; index < menuLinks.length; index++); }
-
+   
